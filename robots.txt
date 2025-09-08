@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mahuang111.github.io/bing-test/sitemap.xml
